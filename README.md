@@ -20,7 +20,7 @@ The implementation uses a **machine learning / deep learning pipeline** trained 
 ## 🧠 Use Cases
 
 * Gesture-controlled user interfaces
-* Touchless systems ( AR/VR)
+* Touchless systems (AR/VR)
 * Assistive technology for accessibility
 * Smart devices and IoT control
 * Human–robot interaction
